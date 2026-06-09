@@ -20,6 +20,7 @@ GETPIVOTDATA formulas, and dynamic slicer-driven filtering.
 - [Tools Used](#tools-used)
 
 ## Dashboard Preview
+[Full Dashboard Overview](Dashboard-Overview.png)
 
 
 
