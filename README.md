@@ -20,7 +20,7 @@ GETPIVOTDATA formulas, and dynamic slicer-driven filtering.
 - [Tools Used](#tools-used)
 
 ## Dashboard Preview
-[View Full Dashboard Overview Here](Dashboard-Overview.png)
+[View Full Dashboard Overview](Dashboard-Overview.png)
 
 ## Project Overview
 ---
@@ -68,8 +68,67 @@ This dashboard was built to answer seven business questions:
 - **Consumer segment drives 50.8%** of revenue; Home Office has 
   the highest average order value at $243
 
-  ## Regional Performance
-  [View Regional performance Chart](Chart_01 Revenue by Region.png)
+## Regional Performance
+
+[View Regional performance Chart](Chart_01-Revenue-trend-by-Region.png)
+  
+The West region leads all four regions with **$710.2K in revenue 
+(31.4% share)**, followed closely by East at $669.5K (29.6%). 
+Central contributes 21.8% and South trails at 17.2%.
+
+The gap between West (31.4%) and South (17.2%) represents a 
+**14.2 percentage point difference** — indicating uneven geographic 
+revenue distribution across the business.
+
+## Revenue Trends 2015–2018
+
+[View Revenue Trend Chart](Chart_02-Revenue-trend-by-Year(qtr).png)
+
+Revenue grew **50.5% across the full four-year period**, from 
+$479.9K in 2015 to $722.1K in 2018. The journey was not linear:
+
+- **2016**: Revenue declined 4.3% — the only down year in the dataset
+- **2017**: Recovered strongly with 30.6% growth — the strongest 
+  single-year growth recorded
+- **2018**: Continued growth at 20.3%
+
+At the quarterly level, **Q4 consistently outperforms all other 
+quarters every year without exception**. The highest single quarter 
+was 2018 Q4 at $278.4K.
+
+## Category Performance
+
+[View Category Chart](chart_04-Revenue(&-product-count)-by-Category-and-sub-category.png)
+
+**Transaction count and revenue tell completely different stories** 
+about the same sub-categories — a critical finding for resource 
+allocation decisions.
+
+- **Technology** leads revenue despite the fewest transactions
+- **Phones** generate 14.5% of total revenue ($327.8K) with 
+  moderate order volume
+- **Binders** lead transaction count at 1,492 orders but generate 
+  only 8.8% of revenue ($200K)
+- **Fasteners** represent the weakest performer — low count and 
+  just $3K in revenue
+- **Copiers** show the highest revenue per transaction — only 66 
+  orders but $146K revenue
+
+> High order volume does not guarantee high revenue. Transaction 
+> count alone is a misleading measure of sub-category value.
+
+## Geographic Performance
+
+[View States Performance Chart](Chart_05-Revenue-across-top-&-bottom-5-States.png)
+
+Geographic revenue is heavily concentrated. The **top 5 states 
+generate 51.9% of total revenue** while the **bottom 5 generate 
+just 0.3%**.
+
+
+
+
+  
 
 
 
