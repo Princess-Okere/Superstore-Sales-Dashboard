@@ -68,5 +68,8 @@ This dashboard was built to answer seven business questions:
 - **Consumer segment drives 50.8%** of revenue; Home Office has 
   the highest average order value at $243
 
+  ## Regional Performance
+  [View Regional performance Chart](Chart_01 Revenue by Region.png)
+
 
 
