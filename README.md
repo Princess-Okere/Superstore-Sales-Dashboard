@@ -82,7 +82,7 @@ revenue distribution across the business.
 
 ## Revenue Trends 2015–2018
 
-[View Revenue Trend Chart](Chart_02-Revenue-trend-by-Year(qtr).png)
+[View Revenue Trend Chart](Chart_02-Revenue-trend-by-Year(Qtr).png)
 
 Revenue grew **50.5% across the full four-year period**, from 
 $479.9K in 2015 to $722.1K in 2018. The journey was not linear:
@@ -98,7 +98,7 @@ was 2018 Q4 at $278.4K.
 
 ## Category Performance
 
-[View Category Chart](chart_04-Revenue(&-product-count)-by-Category-and-sub-category.png)
+[View Category Chart](Chart_04-Revenue(&-product-count)-by-Category-and-sub-category.png)
 
 **Transaction count and revenue tell completely different stories** 
 about the same sub-categories — a critical finding for resource 
