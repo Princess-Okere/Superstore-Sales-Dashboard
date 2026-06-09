@@ -20,7 +20,7 @@ GETPIVOTDATA formulas, and dynamic slicer-driven filtering.
 - [Tools Used](#tools-used)
 
 ## Dashboard Preview
-[View Full Dashboard Overview](Dashboard-Overview.png)
+[View Full Dashboard Overview](Dashboard_Overview.png)
 
 ## Project Overview
 ---
@@ -70,7 +70,7 @@ This dashboard was built to answer seven business questions:
 
 ## Regional Performance
 
-[View Regional performance Chart](Chart_01-Revenue-trend-by-Region.png)
+[View Regional performance Chart](Chart_01_Revenue_trend_by_Region.png)
   
 The West region leads all four regions with **$710.2K in revenue 
 (31.4% share)**, followed closely by East at $669.5K (29.6%). 
@@ -82,7 +82,7 @@ revenue distribution across the business.
 
 ## Revenue Trends 2015–2018
 
-[View Revenue Trend Chart](Chart_02-Revenue-trend-by-Year(Qtr).png)
+[View Revenue Trend Chart](Chart_02_Revenue_trend_by_Year(Qtr).png)
 
 Revenue grew **50.5% across the full four-year period**, from 
 $479.9K in 2015 to $722.1K in 2018. The journey was not linear:
@@ -98,7 +98,7 @@ was 2018 Q4 at $278.4K.
 
 ## Category Performance
 
-[View Category Chart](Chart_04-Revenue(&-product-count)-by-Category-and-sub-category.png)
+[View Category Chart](Chart_04_Revenue(&_product_count)_by_Category_and_sub_category.png)
 
 **Transaction count and revenue tell completely different stories** 
 about the same sub-categories — a critical finding for resource 
@@ -119,7 +119,7 @@ allocation decisions.
 
 ## Geographic Performance
 
-[View States Performance Chart](Chart_05-Revenue-across-top-&-bottom-5-States.png)
+[View States Performance Chart](Chart_05_Revenue_across_top_&_bottom_5_States.png)
 
 Geographic revenue is heavily concentrated. The **top 5 states 
 generate 51.9% of total revenue** while the **bottom 5 generate 
