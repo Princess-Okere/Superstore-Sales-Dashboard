@@ -70,7 +70,7 @@ This dashboard was built to answer seven business questions:
 
 ## Regional Performance
 
-[View Regional performance Chart](Chart_01_Revenue_trend_by_Region.png)
+[View Regional performance Chart](https://github.com/Princess-Okere/Superstore-Sales-Dashboard/blob/591083688b0eb13222c1fe4c7034b56a493de82e/Chart_01%20Revenue%20trend%20by%20Region.png)
   
 The West region leads all four regions with **$710.2K in revenue 
 (31.4% share)**, followed closely by East at $669.5K (29.6%). 
