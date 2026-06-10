@@ -123,7 +123,8 @@ allocation decisions.
 
 ## Geographic Performance
 
-[View States Performance Chart](https://github.com/Princess-Okere/Superstore-Sales-Dashboard/blob/8ae2a46ec0b835b158ad3d4a6908d8bb0cf11915/Chart_05%20Revenue%20across%20top%20%26%20bottom%205%20States.png)
+<img width="627" height="380" alt="image" src="https://github.com/user-attachments/assets/86eba694-b5aa-4d73-9a79-a81518da02c2" />
+
 
 Geographic revenue is heavily concentrated. The **top 5 states 
 generate 51.9% of total revenue** while the **bottom 5 generate 
