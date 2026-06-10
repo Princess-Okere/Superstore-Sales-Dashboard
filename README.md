@@ -84,7 +84,8 @@ revenue distribution across the business.
 
 ## Revenue Trends 2015–2018
 
-[View Revenue Trend Chart](https://github.com/Princess-Okere/Superstore-Sales-Dashboard/blob/591083688b0eb13222c1fe4c7034b56a493de82e/Chart_02%20Revenue%20trend%20by%20Year(Qtr).png)
+<img width="623" height="265" alt="image" src="https://github.com/user-attachments/assets/03cebc96-994c-4ace-9901-3a3a93a9dbb6" />
+
 
 Revenue grew **50.5% across the full four-year period**, from 
 $479.9K in 2015 to $722.1K in 2018. The journey was not linear:
