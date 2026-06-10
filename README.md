@@ -219,6 +219,9 @@ staffing and marketing spend with this known cycle.
 - Customer segmentation analysis.
 - Dashboard design principles.
 
+
+[View Interactive Dashboard](https://github.com/Princess-Okere/Superstore-Sales-Dashboard/blob/ae4c4aaee695fc6771819d1df9661d87926dd1ee/train%20analysis%20%26%20dashboard.xlsm)
+
 *Dataset: US Superstore Sales | Source: Kaggle | 
 Tool: Microsoft Excel | Period: 2015–2018*
 
