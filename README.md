@@ -148,7 +148,8 @@ just 0.3%**.
 
 ## Seasonal Patterns
 
-![Seasonal Patterns Chart](chart_06_seasonal_patterns.png)
+<img width="545" height="380" alt="image" src="https://github.com/user-attachments/assets/e2a0fbfe-09bb-470a-98e6-b99d645872e1" />
+
 
 Monthly revenue analysis across all four years reveals a 
 **consistent and predictable seasonal pattern**:
