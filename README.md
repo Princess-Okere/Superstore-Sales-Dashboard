@@ -20,7 +20,7 @@ GETPIVOTDATA formulas, and dynamic slicer-driven filtering.
 - [Tools Used](#tools-used)
 
 ## Dashboard Preview
-[View Full Dashboard Overview](Dashboard_Overview.png)
+[View Full Dashboard Overview](https://github.com/Princess-Okere/Superstore-Sales-Dashboard/blob/969fbc02d0415b7cb91e2c8f04d7868cb7305cbc/Dashboard-Overview.png)
 
 ## Project Overview
 ---
