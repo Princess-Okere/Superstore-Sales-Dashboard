@@ -172,6 +172,9 @@ staffing and marketing spend with this known cycle.
 
 ## Customer Segments
 
+<img width="529" height="265" alt="image" src="https://github.com/user-attachments/assets/010db45c-17ae-425c-b113-ab6315756f22" />
+
+
 
 
 
