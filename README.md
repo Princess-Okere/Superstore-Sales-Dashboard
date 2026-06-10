@@ -125,6 +125,45 @@ Geographic revenue is heavily concentrated. The **top 5 states
 generate 51.9% of total revenue** while the **bottom 5 generate 
 just 0.3%**.
 
+**Top 5 States:**
+| State | Revenue |
+|---|---|
+| California | $446.3K |
+| New York | $306.4K |
+| Texas | $168.6K |
+| Washington | $135.2K |
+| Pennsylvania | $116.3K |
+
+**Bottom 5 States:**
+| State |  Revenue |
+|---|---|
+| Wyoming | $1.6K |
+| South Dakota | $1.3K |
+| Maine |  $1.3K |
+| West Virginia | $1.2K |
+| North Dakota | $920 |
+
+>**California alone ($446.3K) exceeds all five bottom states combined ($6K).**
+
+
+## Seasonal Patterns
+
+![Seasonal Patterns Chart](chart_06_seasonal_patterns.png)
+
+Monthly revenue analysis across all four years reveals a 
+**consistent and predictable seasonal pattern**:
+
+- **November** is the strongest month every year ($21.9K average)
+- **September** produces a notable mid-year peak ($18.8K average)
+- **January** is the weakest month every year ($5.9K average)
+- **February** consistently follows as the second weakest ($3.7K)
+
+This pattern repeats without exception across 2015, 2016, 2017 
+and 2018 — confirming it is a **structural business characteristic**, 
+not random variation. The business should align inventory, 
+staffing and marketing spend with this known cycle.
+
+
 
 
 
