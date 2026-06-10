@@ -56,18 +56,18 @@ This dashboard was built to answer seven business questions:
 
 ## Key Findings
 
-- **West region leads** with 31.4% of total revenue
-- **Revenue grew 50.5%** over four years despite a 2016 dip of 4.3%
+- **West region leads** with 31.4% of total revenue.
+- **Revenue grew 50.5%** over four years despite a 2016 dip of 4.3%.
 - **Technology dominates revenue** despite having the fewest 
-  transactions — Phones alone generate 14.5% of total revenue
+  transactions — Phones alone generate 14.5% of total revenue.
 - **High volume ≠ high revenue** — Binders lead transaction count 
-  (1,492 orders) but generate only 8.8% of revenue
+  (1,492 orders) but generate only 8.8% of revenue.
 - **Top 5 states generate 51.9%** of revenue — California alone 
-  exceeds all bottom 5 states combined
+  exceeds all bottom 5 states combined.
 - **Sales peak every November** and drop every January — a 
-  consistent four-year structural pattern
+  consistent four-year structural pattern.
 - **Consumer segment drives 50.8%** of revenue; Home Office has 
-  the highest average order value at $243
+  the highest average order value at $243.
 
 ## Regional Performance
 
@@ -90,10 +90,10 @@ revenue distribution across the business.
 Revenue grew **50.5% across the full four-year period**, from 
 $479.9K in 2015 to $722.1K in 2018. The journey was not linear:
 
-- **2016**: Revenue declined 4.3% — the only down year in the dataset
+- **2016**: Revenue declined 4.3% — the only down year in the dataset.
 - **2017**: Recovered strongly with 30.6% growth — the strongest 
-  single-year growth recorded
-- **2018**: Continued growth at 20.3%
+  single-year growth recorded.
+- **2018**: Continued growth at 20.3%.
 
 At the quarterly level, **Q4 consistently outperforms all other 
 quarters every year without exception**. The highest single quarter 
@@ -108,15 +108,15 @@ was 2018 Q4 at $278.4K.
 about the same sub-categories — a critical finding for resource 
 allocation decisions.
 
-- **Technology** leads revenue despite the fewest transactions
+- **Technology** leads revenue despite the fewest transactions.
 - **Phones** generate 14.5% of total revenue ($327.8K) with 
-  moderate order volume
+  moderate order volume.
 - **Binders** lead transaction count at 1,492 orders but generate 
-  only 8.8% of revenue ($200K)
+  only 8.8% of revenue ($200K).
 - **Fasteners** represent the weakest performer — low count and 
-  just $3K in revenue
+  just $3K in revenue.
 - **Copiers** show the highest revenue per transaction — only 66 
-  orders but $146K revenue
+  orders but $146K revenue.
 
 > High order volume does not guarantee high revenue. Transaction 
 > count alone is a misleading measure of sub-category value.
@@ -159,10 +159,10 @@ just 0.3%**.
 Monthly revenue analysis across all four years reveals a 
 **consistent and predictable seasonal pattern**:
 
-- **November** is the strongest month every year ($21.9K average)
-- **September** produces a notable mid-year peak ($18.8K average)
-- **January** is the weakest month every year ($5.9K average)
-- **February** consistently follows as the second weakest ($3.7K)
+- **November** is the strongest month every year ($21.9K average).
+- **September** produces a notable mid-year peak ($18.8K average).
+- **January** is the weakest month every year ($5.9K average).
+- **February** consistently follows as the second weakest ($3.7K).
 
 This pattern repeats without exception across 2015, 2016, 2017 
 and 2018 — confirming it is a **structural business characteristic**, 
@@ -175,8 +175,52 @@ staffing and marketing spend with this known cycle.
 <img width="529" height="265" alt="image" src="https://github.com/user-attachments/assets/010db45c-17ae-425c-b113-ab6315756f22" />
 
 
+| Segment  | Revenue | AOV |
+|---|---|---|
+| Cunsumer | $1.1M | $225.07 |
+| Corporate | $688.5K | $233.15 |
+| Home Office | $425.0k | $243.40 |
+
+**Consumer** generates the highest revenue but has the lowest average order value (AOV), indicating strong performance driven by order volume. 
+
+**Home Office** shows the opposite pattern—lower overall revenue but the highest AOV, reflecting fewer yet higher-value purchases.
 
 
+## Business Recommendations
+
+1. **Defend West region leadership** — invest in retention and 
+   expansion marketing in the dominant region.
+2. **Grow the South region** — 17.2% share indicates underdevelopment 
+   relative to population and market size.
+3. **Build Q1 recovery strategies** — January consistently underperforms; 
+   targeted promotions could lift the annual weakest month.
+4. **Prioritise Technology category** — highest revenue per transaction 
+   across all sub-categories.
+5. **Target Home Office segment expansion** — highest AOV, lowest 
+   customer count, largest untapped growth opportunity.
+6. **Focus geographic expansion on proven markets** — California, 
+   New York and Texas demonstrate established buying behaviour.
+
+
+## Tools Used
+
+**Technical Skills:**
+- Microsoft Excel (Pivot Tables, Power Query, GETPIVOTDATA).
+- Dynamic KPI cards with GETPIVOTDATA formulas.
+- Slicer-driven filtering with Report Connections.
+- VBA macro for filter clearing.
+- Combo charts, line charts, horizontal bar charts.
+
+**Analytical Skills:**
+- Business question formulation.
+- Volume vs value analysis.
+- Seasonal pattern identification.
+- Geographic performance analysis.
+- Customer segmentation analysis.
+- Dashboard design principles.
+
+*Dataset: US Superstore Sales | Source: Kaggle | 
+Tool: Microsoft Excel | Period: 2015–2018*
 
 
 
