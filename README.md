@@ -101,7 +101,8 @@ was 2018 Q4 at $278.4K.
 
 ## Category Performance
 
-[View Category Chart](https://github.com/Princess-Okere/Superstore-Sales-Dashboard/blob/c216671039d14afad70b413614c29493ca384a01/Chart_04%20Revenue(%26%20product%20count)%20by%20Category%20and%20sub-category.png)
+<img width="512" height="392" alt="image" src="https://github.com/user-attachments/assets/4b09fd36-663e-4f9d-8509-c938348fbafd" />
+
 
 **Transaction count and revenue tell completely different stories** 
 about the same sub-categories — a critical finding for resource 
