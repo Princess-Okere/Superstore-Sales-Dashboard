@@ -88,16 +88,22 @@ revenue distribution across the business.
 
 
 Revenue grew **50.5% across the full four-year period**, from 
-$479.9K in 2015 to $722.1K in 2018. The journey was not linear:
+$479.9K in 2015 to $722.1K in 2018. 
+The journey was not linear: Overall revenue followed a consistent  upward trajectory across all four years
 
-- **2016**: Revenue declined 4.3% — the only down year in the dataset.
-- **2017**: Recovered strongly with 30.6% growth — the strongest 
-  single-year growth recorded.
-- **2018**: Continued growth at 20.3%.
+- Q4 peaks every year — the highest quarter in each year is always Q4 without exception
 
-At the quarterly level, **Q4 consistently outperforms all other 
-quarters every year without exception**. The highest single quarter 
-was 2018 Q4 at $278.4K.
+- Each year begins lower than the previous year ended — a recurring Q1 dip visible across all four years
+
+- 2016 shows the flattest period — peaks and troughs remained at similar levels to 2015
+
+- Growth visibly accelerated from 2017 — both peaks and troughs rose sharply through 2017 and 2018
+
+- Highest single quarter: 2018 Q4 at $278.4K
+
+>At the quarterly level, **Q4 consistently outperforms all other quarters every year without exception**. The highest single quarter was 2018 Q4 at $278.4K.
+
+
 
 ## Category Performance
 
