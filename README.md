@@ -170,6 +170,10 @@ not random variation. The business should align inventory,
 staffing and marketing spend with this known cycle.
 
 
+## Customer Segments
+
+
+
 
 
 
