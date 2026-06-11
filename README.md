@@ -228,6 +228,8 @@ staffing and marketing spend with this known cycle.
 
 [View Interactive Dashboard](https://github.com/Princess-Okere/Superstore-Sales-Dashboard/blob/ae4c4aaee695fc6771819d1df9661d87926dd1ee/train%20analysis%20%26%20dashboard.xlsm)
 
+[View Presentation(PDF)](https://github.com/Princess-Okere/Superstore-Sales-Dashboard/blob/952177521be9b02cdd65e7da6e7dca04e726899b/US%20Superstore%20Sales%20Dashboard%20Presentation.pdf)
+
 *Dataset: US Superstore Sales | Source: Kaggle | 
 Tool: Microsoft Excel | Period: 2015–2018*
 
